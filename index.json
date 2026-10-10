@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiojobs",
+  "versions": [
+    {
+      "commit": "154e3575c221cfeae57e36de9a6e689d16a948e3",
+      "tag": "",
+      "parsed_at": "2026-10-10T16:07:19.315850+00:00"
+    }
+  ]
+}
